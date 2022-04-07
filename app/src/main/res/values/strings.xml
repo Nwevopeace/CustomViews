@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Custom Views</string>
+    <string name="control">Control</string>
+    <string name="fan_high">3</string>
+    <string name="medium">2</string>
+    <string name="fan_low">1</string>
+    <string name="fan_off">0</string>
+    <string name="change">Change</string>
+    <string name="reset">Reset</string>
+</resources>
